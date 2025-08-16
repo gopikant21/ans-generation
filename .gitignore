@@ -108,8 +108,6 @@ venv.bak/
 *.swo
 
 # Generated files
-*.json
-*.csv
 output/
 evaluation_dataset/
 example_*

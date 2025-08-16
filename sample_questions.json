@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Tell me about a challenging project you worked on and how you overcame the obstacles you faced.",
+    "domain": "Software Engineering",
+    "difficulty": "intermediate"
+  },
+  {
+    "question": "How would you explain machine learning to a non-technical stakeholder who needs to understand its business value?",
+    "domain": "Data Science",
+    "difficulty": "intermediate"
+  },
+  {
+    "question": "Walk me through your approach to debugging a production issue that's affecting thousands of users.",
+    "domain": "Software Engineering",
+    "difficulty": "advanced"
+  },
+  {
+    "question": "Describe your experience with supervised vs unsupervised learning and when you would use each approach.",
+    "domain": "Machine Learning",
+    "difficulty": "intermediate"
+  },
+  {
+    "question": "How do you handle a situation where a team member consistently misses deadlines?",
+    "domain": "Human Resources",
+    "difficulty": "intermediate"
+  },
+  {
+    "question": "What are the key differences between object-oriented and functional programming paradigms?",
+    "domain": "Software Engineering",
+    "difficulty": "intermediate"
+  },
+  {
+    "question": "How would you design a data pipeline to process real-time streaming data for analytics?",
+    "domain": "Data Science",
+    "difficulty": "advanced"
+  },
+  {
+    "question": "Explain the concept of overfitting in machine learning and how you would prevent it.",
+    "domain": "Machine Learning",
+    "difficulty": "intermediate"
+  },
+  {
+    "question": "Tell me about a time when you had to give difficult feedback to an employee. How did you approach it?",
+    "domain": "Human Resources",
+    "difficulty": "intermediate"
+  },
+  {
+    "question": "How do you stay updated with the latest technology trends and incorporate them into your work?",
+    "domain": "General Knowledge",
+    "difficulty": "beginner"
+  },
+  {
+    "question": "Describe your approach to code reviews and what you look for when reviewing someone else's code.",
+    "domain": "Software Engineering",
+    "difficulty": "intermediate"
+  },
+  {
+    "question": "How would you explain the concept of statistical significance to a business stakeholder?",
+    "domain": "Data Science",
+    "difficulty": "intermediate"
+  },
+  {
+    "question": "What's your experience with different machine learning algorithms, and how do you choose the right one for a problem?",
+    "domain": "Machine Learning",
+    "difficulty": "advanced"
+  },
+  {
+    "question": "How do you approach building and maintaining a diverse and inclusive team?",
+    "domain": "Human Resources",
+    "difficulty": "intermediate"
+  },
+  {
+    "question": "Describe your experience with risk management and how you assess financial risks in decision-making.",
+    "domain": "Finance",
+    "difficulty": "intermediate"
+  },
+  {
+    "question": "How would you design a scalable microservices architecture for a high-traffic application?",
+    "domain": "Software Engineering",
+    "difficulty": "advanced"
+  },
+  {
+    "question": "Walk me through your process for cleaning and preparing messy data for analysis.",
+    "domain": "Data Science",
+    "difficulty": "intermediate"
+  },
+  {
+    "question": "How do you evaluate the performance of a machine learning model in production?",
+    "domain": "Machine Learning",
+    "difficulty": "advanced"
+  },
+  {
+    "question": "Tell me about a time when you had to manage a conflict between team members.",
+    "domain": "Human Resources",
+    "difficulty": "intermediate"
+  },
+  {
+    "question": "How do you approach budgeting and financial forecasting for technology projects?",
+    "domain": "Finance",
+    "difficulty": "intermediate"
+  },
+  {
+    "question": "What strategies do you use to ensure patient data privacy and security in healthcare applications?",
+    "domain": "Healthcare",
+    "difficulty": "intermediate"
+  },
+  {
+    "question": "How would you design a learning management system to support different learning styles?",
+    "domain": "Education",
+    "difficulty": "intermediate"
+  },
+  {
+    "question": "Describe your experience with version control systems and branching strategies.",
+    "domain": "Software Engineering",
+    "difficulty": "beginner"
+  },
+  {
+    "question": "How do you handle missing data in your datasets, and what are the trade-offs of different approaches?",
+    "domain": "Data Science",
+    "difficulty": "intermediate"
+  },
+  {
+    "question": "What are the ethical considerations when deploying machine learning models in real-world applications?",
+    "domain": "Machine Learning",
+    "difficulty": "intermediate"
+  },
+  {
+    "question": "How do you measure employee satisfaction and engagement in your organization?",
+    "domain": "Human Resources",
+    "difficulty": "intermediate"
+  },
+  {
+    "question": "What factors do you consider when making investment decisions for technology infrastructure?",
+    "domain": "Finance",
+    "difficulty": "intermediate"
+  },
+  {
+    "question": "How would you ensure compliance with healthcare regulations like HIPAA in a software system?",
+    "domain": "Healthcare",
+    "difficulty": "advanced"
+  },
+  {
+    "question": "Describe your approach to designing educational content that caters to different age groups and skill levels.",
+    "domain": "Education",
+    "difficulty": "intermediate"
+  },
+  {
+    "question": "What emerging technologies do you think will have the biggest impact in the next 5 years?",
+    "domain": "General Knowledge",
+    "difficulty": "intermediate"
+  }
+]
