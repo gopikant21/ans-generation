@@ -106,7 +106,7 @@ Respond ONLY with valid JSON in this format:
             )
             result_dict = self.extract_json(response_text)
             validated = EvaluationResult(**result_dict)
-            return validated.dict()
+            return validated.model_dump()
         except Exception as e:
             logger.error(f"Error evaluating answer: {e}")
             return {

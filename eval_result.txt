@@ -1,0 +1,843 @@
+Loaded 29 questions from the response file
+Testing evaluation on first 10 questions with ALL candidate answers
+
+============================================================
+Processing Question 1:
+Domain: Data Science, Difficulty: intermediate
+Question: How would you explain machine learning to a non-technical stakeholder who needs to understand its bu...
+Reference answers available: 5
+Candidate answers to evaluate: 6
+
+  Candidate 1/6:
+  Type: perfect_match
+  Answer preview: Essentially, machine learning is a technique where we teach computers to find patterns in our business data. Instead of ...
+/tmp/ipython-input-43586821.py:66: PydanticDeprecatedSince20: The `dict` method is deprecated; use `model_dump` instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.11/migration/
+  return validated.dict()
+  ✅ Evaluation completed:
+     Overall Score: 87.8
+     Relevance: 95.0
+     Accuracy: 100.0
+     Completeness: 50.0
+
+  Candidate 2/6:
+  Type: alternate_correct
+  Answer preview: The way I like to think about it is that machine learning lets us take the expertise of our best people and scale it acr...
+/tmp/ipython-input-43586821.py:66: PydanticDeprecatedSince20: The `dict` method is deprecated; use `model_dump` instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.11/migration/
+  return validated.dict()
+  ✅ Evaluation completed:
+     Overall Score: 78.2
+     Relevance: 80.0
+     Accuracy: 95.0
+     Completeness: 45.0
+
+  Candidate 3/6:
+  Type: partial_correct
+  Answer preview: You see, with machine learning, we feed large amounts of our company's data into powerful computer algorithms. These alg...
+/tmp/ipython-input-43586821.py:66: PydanticDeprecatedSince20: The `dict` method is deprecated; use `model_dump` instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.11/migration/
+  return validated.dict()
+  ✅ Evaluation completed:
+     Overall Score: 75.5
+     Relevance: 80.0
+     Accuracy: 90.0
+     Completeness: 40.0
+
+  Candidate 4/6:
+  Type: misconception
+  Answer preview: Basically, machine learning is about creating an artificial intelligence that can think for itself. We just give it all ...
+/tmp/ipython-input-43586821.py:66: PydanticDeprecatedSince20: The `dict` method is deprecated; use `model_dump` instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.11/migration/
+  return validated.dict()
+  ✅ Evaluation completed:
+     Overall Score: 25.5
+     Relevance: 40.0
+     Accuracy: 10.0
+     Completeness: 20.0
+
+  Candidate 5/6:
+  Type: off_topic
+  Answer preview: Well, when we're looking to implement machine learning, a key decision is the underlying infrastructure. For example, we...
+/tmp/ipython-input-43586821.py:66: PydanticDeprecatedSince20: The `dict` method is deprecated; use `model_dump` instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.11/migration/
+  return validated.dict()
+  ✅ Evaluation completed:
+     Overall Score: 34.8
+     Relevance: 5.0
+     Accuracy: 90.0
+     Completeness: 5.0
+
+  Candidate 6/6:
+  Type: poor_quality
+  Answer preview: So machine learning, its about algorithms and big data. We use the data to make the computer learn things. The business ...
+/tmp/ipython-input-43586821.py:66: PydanticDeprecatedSince20: The `dict` method is deprecated; use `model_dump` instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.11/migration/
+  return validated.dict()
+  ✅ Evaluation completed:
+     Overall Score: 43.0
+     Relevance: 40.0
+     Accuracy: 60.0
+     Completeness: 20.0
+
+  Question 1 Summary:
+    Answers evaluated: 6
+    Average score: 57.5
+    Best score: 87.8
+    Worst score: 25.5
+
+============================================================
+Processing Question 2:
+Domain: Software Engineering, Difficulty: advanced
+Question: Walk me through your approach to debugging a production issue that's affecting thousands of users....
+Reference answers available: 5
+Candidate answers to evaluate: 6
+
+  Candidate 1/6:
+  Type: perfect_match
+  Answer preview: Sure, I follow a pretty structured, phased approach for something that serious. First, it's all about triage and getting...
+/tmp/ipython-input-43586821.py:66: PydanticDeprecatedSince20: The `dict` method is deprecated; use `model_dump` instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.11/migration/
+  return validated.dict()
+  ✅ Evaluation completed:
+     Overall Score: 94.0
+     Relevance: 95.0
+     Accuracy: 95.0
+     Completeness: 90.0
+
+  Candidate 2/6:
+  Type: alternate_correct
+  Answer preview: Well, the very first thing is to get the right people talking and stop the user impact. I'd help establish an incident r...
+/tmp/ipython-input-43586821.py:66: PydanticDeprecatedSince20: The `dict` method is deprecated; use `model_dump` instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.11/migration/
+  return validated.dict()
+  ✅ Evaluation completed:
+     Overall Score: 98.0
+     Relevance: 100.0
+     Accuracy: 100.0
+     Completeness: 90.0
+
+  Candidate 3/6:
+  Type: partial_correct
+  Answer preview: Okay, for a major production issue, my first instinct is to dive straight into the data to figure out what's going on. I...
+/tmp/ipython-input-43586821.py:66: PydanticDeprecatedSince20: The `dict` method is deprecated; use `model_dump` instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.11/migration/
+  return validated.dict()
+  ✅ Evaluation completed:
+     Overall Score: 61.0
+     Relevance: 60.0
+     Accuracy: 80.0
+     Completeness: 30.0
+
+  Candidate 4/6:
+  Type: misconception
+  Answer preview: My philosophy is that you should always fix forward, never roll back. Rolling back is a sign of failure and can often ca...
+/tmp/ipython-input-43586821.py:66: PydanticDeprecatedSince20: The `dict` method is deprecated; use `model_dump` instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.11/migration/
+  return validated.dict()
+  ✅ Evaluation completed:
+     Overall Score: 17.8
+     Relevance: 15.0
+     Accuracy: 20.0
+     Completeness: 20.0
+
+  Candidate 5/6:
+  Type: off_topic
+  Answer preview: Well, my approach to tackling a significant engineering challenge is always rooted in a solid, agile development lifecyc...
+/tmp/ipython-input-43586821.py:66: PydanticDeprecatedSince20: The `dict` method is deprecated; use `model_dump` instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.11/migration/
+  return validated.dict()
+  ✅ Evaluation completed:
+     Overall Score: 31.2
+     Relevance: 5.0
+     Accuracy: 80.0
+     Completeness: 5.0
+
+  Candidate 6/6:
+  Type: poor_quality
+  Answer preview: So for a production issue, it's bad, you have to work fast. The first thing is probably checking the logs. You see what ...
+/tmp/ipython-input-43586821.py:66: PydanticDeprecatedSince20: The `dict` method is deprecated; use `model_dump` instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.11/migration/
+  return validated.dict()
+  ✅ Evaluation completed:
+     Overall Score: 53.0
+     Relevance: 50.0
+     Accuracy: 70.0
+     Completeness: 30.0
+
+  Question 2 Summary:
+    Answers evaluated: 6
+    Average score: 59.2
+    Best score: 98.0
+    Worst score: 17.8
+
+============================================================
+Processing Question 3:
+Domain: Software Engineering, Difficulty: intermediate
+Question: Tell me about a challenging project you worked on and how you overcame the obstacles you faced....
+Reference answers available: 4
+Candidate answers to evaluate: 6
+
+  Candidate 1/6:
+  Type: perfect_match
+  Answer preview: Sure, one of the most challenging projects I worked on was migrating our monolithic e-commerce application to a microser...
+/tmp/ipython-input-43586821.py:66: PydanticDeprecatedSince20: The `dict` method is deprecated; use `model_dump` instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.11/migration/
+  return validated.dict()
+  ✅ Evaluation completed:
+     Overall Score: 97.0
+     Relevance: 100.0
+     Accuracy: 100.0
+     Completeness: 85.0
+
+  Candidate 2/6:
+  Type: alternate_correct
+  Answer preview: Well, a really tough one was an integration with a third-party logistics provider. Their API was critical for our shippi...
+/tmp/ipython-input-43586821.py:66: PydanticDeprecatedSince20: The `dict` method is deprecated; use `model_dump` instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.11/migration/
+  return validated.dict()
+  ✅ Evaluation completed:
+     Overall Score: 89.8
+     Relevance: 90.0
+     Accuracy: 95.0
+     Completeness: 80.0
+
+  Candidate 3/6:
+  Type: partial_correct
+  Answer preview: We had this reporting feature that was getting super slow as we got more data. The problem was basically that the databa...
+/tmp/ipython-input-43586821.py:66: PydanticDeprecatedSince20: The `dict` method is deprecated; use `model_dump` instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.11/migration/
+  return validated.dict()
+  ✅ Evaluation completed:
+     Overall Score: 79.2
+     Relevance: 80.0
+     Accuracy: 95.0
+     Completeness: 50.0
+
+  Candidate 4/6:
+  Type: misconception
+  Answer preview: Yeah, I worked on a project where we had this data import process that was taking hours to run. It was single-threaded, ...
+/tmp/ipython-input-43586821.py:66: PydanticDeprecatedSince20: The `dict` method is deprecated; use `model_dump` instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.11/migration/
+  return validated.dict()
+  ✅ Evaluation completed:
+     Overall Score: 65.0
+     Relevance: 60.0
+     Accuracy: 80.0
+     Completeness: 50.0
+
+  Candidate 5/6:
+  Type: off_topic
+  Answer preview: One of the most challenging projects wasn't really about the code, but about the project management process itself. We w...
+/tmp/ipython-input-43586821.py:66: PydanticDeprecatedSince20: The `dict` method is deprecated; use `model_dump` instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.11/migration/
+  return validated.dict()
+  ✅ Evaluation completed:
+     Overall Score: 92.5
+     Relevance: 90.0
+     Accuracy: 100.0
+     Completeness: 85.0
+
+  Candidate 6/6:
+  Type: poor_quality
+  Answer preview: So there was this one project, it was really a challenge. The legacy system was the problem. It was very slow and the co...
+/tmp/ipython-input-43586821.py:66: PydanticDeprecatedSince20: The `dict` method is deprecated; use `model_dump` instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.11/migration/
+  return validated.dict()
+  ✅ Evaluation completed:
+     Overall Score: 59.2
+     Relevance: 60.0
+     Accuracy: 75.0
+     Completeness: 30.0
+
+  Question 3 Summary:
+    Answers evaluated: 6
+    Average score: 80.5
+    Best score: 97.0
+    Worst score: 59.2
+
+============================================================
+Processing Question 4:
+Domain: Machine Learning, Difficulty: intermediate
+Question: Describe your experience with supervised vs unsupervised learning and when you would use each approa...
+Reference answers available: 5
+Candidate answers to evaluate: 6
+
+  Candidate 1/6:
+  Type: perfect_match
+  Answer preview: Well, in my experience, it really boils down to this: supervised learning is what you use when you have labeled data to ...
+/tmp/ipython-input-43586821.py:66: PydanticDeprecatedSince20: The `dict` method is deprecated; use `model_dump` instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.11/migration/
+  return validated.dict()
+  ✅ Evaluation completed:
+     Overall Score: 92.0
+     Relevance: 100.0
+     Accuracy: 100.0
+     Completeness: 60.0
+
+  Candidate 2/6:
+  Type: alternate_correct
+  Answer preview: The way I see it, the decision between supervised and unsupervised learning is all about your objective and whether you ...
+/tmp/ipython-input-43586821.py:66: PydanticDeprecatedSince20: The `dict` method is deprecated; use `model_dump` instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.11/migration/
+  return validated.dict()
+  ✅ Evaluation completed:
+     Overall Score: 96.0
+     Relevance: 100.0
+     Accuracy: 100.0
+     Completeness: 80.0
+
+  Candidate 3/6:
+  Type: partial_correct
+  Answer preview: Sure. Supervised learning is definitely the main one. You use it when your data is labeled, so you have a clear 'y' vari...
+/tmp/ipython-input-43586821.py:66: PydanticDeprecatedSince20: The `dict` method is deprecated; use `model_dump` instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.11/migration/
+  return validated.dict()
+  ✅ Evaluation completed:
+     Overall Score: 75.0
+     Relevance: 90.0
+     Accuracy: 70.0
+     Completeness: 50.0
+
+  Candidate 4/6:
+  Type: misconception
+  Answer preview: The thing is, you always want to use supervised learning if you can, because it's just more powerful and accurate since ...
+/tmp/ipython-input-43586821.py:66: PydanticDeprecatedSince20: The `dict` method is deprecated; use `model_dump` instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.11/migration/
+  return validated.dict()
+  ✅ Evaluation completed:
+     Overall Score: 32.5
+     Relevance: 40.0
+     Accuracy: 30.0
+     Completeness: 20.0
+
+  Candidate 5/6:
+  Type: off_topic
+  Answer preview: That's a great question because it touches on the entire model lifecycle. In my experience, the biggest challenge isn't ...
+/tmp/ipython-input-43586821.py:66: PydanticDeprecatedSince20: The `dict` method is deprecated; use `model_dump` instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.11/migration/
+  return validated.dict()
+  ✅ Evaluation completed:
+     Overall Score: 33.8
+     Relevance: 5.0
+     Accuracy: 90.0
+     Completeness: 0.0
+
+  Candidate 6/6:
+  Type: poor_quality
+  Answer preview: So supervised learning is when you have labels. for the data. Unsupervised is when you don't. You use supervised to pred...
+/tmp/ipython-input-43586821.py:66: PydanticDeprecatedSince20: The `dict` method is deprecated; use `model_dump` instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.11/migration/
+  return validated.dict()
+  ✅ Evaluation completed:
+     Overall Score: 73.5
+     Relevance: 80.0
+     Accuracy: 90.0
+     Completeness: 30.0
+
+  Question 4 Summary:
+    Answers evaluated: 6
+    Average score: 67.1
+    Best score: 96.0
+    Worst score: 32.5
+
+============================================================
+Processing Question 5:
+Domain: Human Resources, Difficulty: intermediate
+Question: How do you handle a situation where a team member consistently misses deadlines?...
+Reference answers available: 4
+Candidate answers to evaluate: 6
+
+  Candidate 1/6:
+  Type: perfect_match
+  Answer preview: Well, the way I'd approach this requires a structured process. First, you have to gather data—you need specific examples...
+/tmp/ipython-input-43586821.py:66: PydanticDeprecatedSince20: The `dict` method is deprecated; use `model_dump` instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.11/migration/
+  return validated.dict()
+  ✅ Evaluation completed:
+     Overall Score: 100.0
+     Relevance: 100.0
+     Accuracy: 100.0
+     Completeness: 100.0
+
+  Candidate 2/6:
+  Type: alternate_correct
+  Answer preview: You see, I tend to view this as a coaching opportunity before it becomes a disciplinary one. The initial step is always ...
+/tmp/ipython-input-43586821.py:66: PydanticDeprecatedSince20: The `dict` method is deprecated; use `model_dump` instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.11/migration/
+  return validated.dict()
+  ✅ Evaluation completed:
+     Overall Score: 87.8
+     Relevance: 90.0
+     Accuracy: 95.0
+     Completeness: 70.0
+
+  Candidate 3/6:
+  Type: partial_correct
+  Answer preview: The thing is, you need to address it directly. I would pull the team member aside for a quick chat and just ask them wha...
+/tmp/ipython-input-43586821.py:66: PydanticDeprecatedSince20: The `dict` method is deprecated; use `model_dump` instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.11/migration/
+  return validated.dict()
+  ✅ Evaluation completed:
+     Overall Score: 69.0
+     Relevance: 70.0
+     Accuracy: 90.0
+     Completeness: 30.0
+
+  Candidate 4/6:
+  Type: misconception
+  Answer preview: Actually, since we're in an at-will employment state, the process can be quite straightforward. If an employee isn't per...
+/tmp/ipython-input-43586821.py:66: PydanticDeprecatedSince20: The `dict` method is deprecated; use `model_dump` instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.11/migration/
+  return validated.dict()
+  ✅ Evaluation completed:
+     Overall Score: 31.5
+     Relevance: 30.0
+     Accuracy: 40.0
+     Completeness: 20.0
+
+  Candidate 5/6:
+  Type: off_topic
+  Answer preview: The best way to handle deadlines is to prevent them from being missed in the first place. When kicking off a new project...
+/tmp/ipython-input-43586821.py:66: PydanticDeprecatedSince20: The `dict` method is deprecated; use `model_dump` instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.11/migration/
+  return validated.dict()
+  ✅ Evaluation completed:
+     Overall Score: 43.5
+     Relevance: 20.0
+     Accuracy: 90.0
+     Completeness: 15.0
+
+  Candidate 6/6:
+  Type: poor_quality
+  Answer preview: When a person miss deadlines, its bad for the team. The manager should do something. You should talk to them about the w...
+/tmp/ipython-input-43586821.py:66: PydanticDeprecatedSince20: The `dict` method is deprecated; use `model_dump` instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.11/migration/
+  return validated.dict()
+  ✅ Evaluation completed:
+     Overall Score: 43.0
+     Relevance: 40.0
+     Accuracy: 60.0
+     Completeness: 20.0
+
+  Question 5 Summary:
+    Answers evaluated: 6
+    Average score: 62.5
+    Best score: 100.0
+    Worst score: 31.5
+
+============================================================
+Processing Question 6:
+Domain: Software Engineering, Difficulty: intermediate
+Question: What are the key differences between object-oriented and functional programming paradigms?...
+Reference answers available: 4
+Candidate answers to evaluate: 6
+
+  Candidate 1/6:
+  Type: perfect_match
+  Answer preview: The core distinction really comes down to how they handle state and data. You see, object-oriented programming is built ...
+/tmp/ipython-input-43586821.py:66: PydanticDeprecatedSince20: The `dict` method is deprecated; use `model_dump` instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.11/migration/
+  return validated.dict()
+  ✅ Evaluation completed:
+     Overall Score: 96.0
+     Relevance: 100.0
+     Accuracy: 100.0
+     Completeness: 80.0
+
+  Candidate 2/6:
+  Type: alternate_correct
+  Answer preview: Well, the fundamental way they approach problem-solving is different. OOP is largely imperative; you tell the program *h...
+/tmp/ipython-input-43586821.py:66: PydanticDeprecatedSince20: The `dict` method is deprecated; use `model_dump` instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.11/migration/
+  return validated.dict()
+  ✅ Evaluation completed:
+     Overall Score: 93.2
+     Relevance: 100.0
+     Accuracy: 95.0
+     Completeness: 75.0
+
+  Candidate 3/6:
+  Type: partial_correct
+  Answer preview: So, the main thing is that OOP uses objects and FP uses functions. In object-oriented, you have these objects that hold ...
+/tmp/ipython-input-43586821.py:66: PydanticDeprecatedSince20: The `dict` method is deprecated; use `model_dump` instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.11/migration/
+  return validated.dict()
+  ✅ Evaluation completed:
+     Overall Score: 82.0
+     Relevance: 90.0
+     Accuracy: 90.0
+     Completeness: 50.0
+
+  Candidate 4/6:
+  Type: misconception
+  Answer preview: Actually, the difference is mainly about the programming language you choose. You see, languages like Java or C# are obj...
+/tmp/ipython-input-43586821.py:66: PydanticDeprecatedSince20: The `dict` method is deprecated; use `model_dump` instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.11/migration/
+  return validated.dict()
+  ✅ Evaluation completed:
+     Overall Score: 7.2
+     Relevance: 10.0
+     Accuracy: 5.0
+     Completeness: 5.0
+
+  Candidate 5/6:
+  Type: off_topic
+  Answer preview: The key difference really goes back to the evolution from procedural programming. In procedural, you'd have data structu...
+/tmp/ipython-input-43586821.py:66: PydanticDeprecatedSince20: The `dict` method is deprecated; use `model_dump` instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.11/migration/
+  return validated.dict()
+  ✅ Evaluation completed:
+     Overall Score: 44.5
+     Relevance: 20.0
+     Accuracy: 90.0
+     Completeness: 20.0
+
+  Candidate 6/6:
+  Type: poor_quality
+  Answer preview: So yeah OOP and FP are different paradigms. OOP has objects which is the main thing, and they have state and stuff. But ...
+/tmp/ipython-input-43586821.py:66: PydanticDeprecatedSince20: The `dict` method is deprecated; use `model_dump` instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.11/migration/
+  return validated.dict()
+  ✅ Evaluation completed:
+     Overall Score: 72.8
+     Relevance: 90.0
+     Accuracy: 75.0
+     Completeness: 30.0
+
+  Question 6 Summary:
+    Answers evaluated: 6
+    Average score: 66.0
+    Best score: 96.0
+    Worst score: 7.2
+
+============================================================
+Processing Question 7:
+Domain: Human Resources, Difficulty: intermediate
+Question: Tell me about a time when you had to give difficult feedback to an employee. How did you approach it...
+Reference answers available: 4
+Candidate answers to evaluate: 6
+
+  Candidate 1/6:
+  Type: perfect_match
+  Answer preview: Well, I follow a pretty structured process for those situations to make sure it's both fair and productive. First, I alw...
+/tmp/ipython-input-43586821.py:66: PydanticDeprecatedSince20: The `dict` method is deprecated; use `model_dump` instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.11/migration/
+  return validated.dict()
+  ✅ Evaluation completed:
+     Overall Score: 91.5
+     Relevance: 90.0
+     Accuracy: 100.0
+     Completeness: 80.0
+
+  Candidate 2/6:
+  Type: alternate_correct
+  Answer preview: My approach is really centered on coaching and helping the employee arrive at the solution themselves. For instance, I h...
+/tmp/ipython-input-43586821.py:66: PydanticDeprecatedSince20: The `dict` method is deprecated; use `model_dump` instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.11/migration/
+  return validated.dict()
+  ✅ Evaluation completed:
+     Overall Score: 89.2
+     Relevance: 95.0
+     Accuracy: 90.0
+     Completeness: 75.0
+
+  Candidate 3/6:
+  Type: partial_correct
+  Answer preview: When I have to give tough feedback, I believe in being direct and getting straight to the point. You can't sugarcoat the...
+/tmp/ipython-input-43586821.py:66: PydanticDeprecatedSince20: The `dict` method is deprecated; use `model_dump` instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.11/migration/
+  return validated.dict()
+  ✅ Evaluation completed:
+     Overall Score: 76.5
+     Relevance: 70.0
+     Accuracy: 100.0
+     Completeness: 50.0
+
+  Candidate 4/6:
+  Type: misconception
+  Answer preview: The thing is, you have to handle these things firmly and make sure the whole team understands the standard. I had a situ...
+/tmp/ipython-input-43586821.py:66: PydanticDeprecatedSince20: The `dict` method is deprecated; use `model_dump` instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.11/migration/
+  return validated.dict()
+  ✅ Evaluation completed:
+     Overall Score: 66.5
+     Relevance: 60.0
+     Accuracy: 90.0
+     Completeness: 40.0
+
+  Candidate 5/6:
+  Type: off_topic
+  Answer preview: Oh, definitely. Difficult conversations are a key part of management. I remember one time I had two team members who wer...
+/tmp/ipython-input-43586821.py:66: PydanticDeprecatedSince20: The `dict` method is deprecated; use `model_dump` instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.11/migration/
+  return validated.dict()
+  ✅ Evaluation completed:
+     Overall Score: 56.3
+     Relevance: 45.0
+     Accuracy: 80.0
+     Completeness: 40.0
+
+  Candidate 6/6:
+  Type: poor_quality
+  Answer preview: So, when feedback is needed, you have to give it. I had this one employee, he was a problem. Not doing his work right. I...
+/tmp/ipython-input-43586821.py:66: PydanticDeprecatedSince20: The `dict` method is deprecated; use `model_dump` instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.11/migration/
+  return validated.dict()
+  ✅ Evaluation completed:
+     Overall Score: 43.0
+     Relevance: 40.0
+     Accuracy: 60.0
+     Completeness: 20.0
+
+  Question 7 Summary:
+    Answers evaluated: 6
+    Average score: 70.5
+    Best score: 91.5
+    Worst score: 43.0
+
+============================================================
+Processing Question 8:
+Domain: Machine Learning, Difficulty: intermediate
+Question: Explain the concept of overfitting in machine learning and how you would prevent it....
+Reference answers available: 5
+Candidate answers to evaluate: 6
+
+  Candidate 1/6:
+  Type: perfect_match
+  Answer preview: You see, overfitting is basically a modeling error where the function gets way too closely aligned with the specific dat...
+/tmp/ipython-input-43586821.py:66: PydanticDeprecatedSince20: The `dict` method is deprecated; use `model_dump` instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.11/migration/
+  return validated.dict()
+  ✅ Evaluation completed:
+     Overall Score: 93.8
+     Relevance: 95.0
+     Accuracy: 100.0
+     Completeness: 80.0
+
+  Candidate 2/6:
+  Type: alternate_correct
+  Answer preview: The thing is, overfitting is all about the bias-variance tradeoff. An overfit model is one that has extremely high varia...
+/tmp/ipython-input-43586821.py:66: PydanticDeprecatedSince20: The `dict` method is deprecated; use `model_dump` instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.11/migration/
+  return validated.dict()
+  ✅ Evaluation completed:
+     Overall Score: 90.0
+     Relevance: 90.0
+     Accuracy: 95.0
+     Completeness: 80.0
+
+  Candidate 3/6:
+  Type: partial_correct
+  Answer preview: Overfitting is when your model essentially memorizes the training data, including all the noise and random quirks. This ...
+/tmp/ipython-input-43586821.py:66: PydanticDeprecatedSince20: The `dict` method is deprecated; use `model_dump` instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.11/migration/
+  return validated.dict()
+  ✅ Evaluation completed:
+     Overall Score: 71.8
+     Relevance: 80.0
+     Accuracy: 85.0
+     Completeness: 30.0
+
+  Candidate 4/6:
+  Type: misconception
+  Answer preview: Well, overfitting is what happens when your model's accuracy is just too low, even on the training data. It means the mo...
+/tmp/ipython-input-43586821.py:66: PydanticDeprecatedSince20: The `dict` method is deprecated; use `model_dump` instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.11/migration/
+  return validated.dict()
+  ✅ Evaluation completed:
+     Overall Score: 11.8
+     Relevance: 20.0
+     Accuracy: 5.0
+     Completeness: 5.0
+
+  Candidate 5/6:
+  Type: off_topic
+  Answer preview: That's a great question. When we talk about model performance, the real key is the data you feed into it, and that start...
+/tmp/ipython-input-43586821.py:66: PydanticDeprecatedSince20: The `dict` method is deprecated; use `model_dump` instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.11/migration/
+  return validated.dict()
+  ✅ Evaluation completed:
+     Overall Score: 37.0
+     Relevance: 10.0
+     Accuracy: 90.0
+     Completeness: 5.0
+
+  Candidate 6/6:
+  Type: poor_quality
+  Answer preview: Overfitting is a problem with models. it does too good on the train data. So you have to fix it with data like get more ...
+/tmp/ipython-input-43586821.py:66: PydanticDeprecatedSince20: The `dict` method is deprecated; use `model_dump` instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.11/migration/
+  return validated.dict()
+  ✅ Evaluation completed:
+     Overall Score: 80.2
+     Relevance: 90.0
+     Accuracy: 85.0
+     Completeness: 50.0
+
+  Question 8 Summary:
+    Answers evaluated: 6
+    Average score: 64.1
+    Best score: 93.8
+    Worst score: 11.8
+
+============================================================
+Processing Question 9:
+Domain: Data Science, Difficulty: advanced
+Question: How would you design a data pipeline to process real-time streaming data for analytics?...
+Reference answers available: 5
+Candidate answers to evaluate: 6
+
+  Candidate 1/6:
+  Type: perfect_match
+  Answer preview: Well, the way I'd design a real-time streaming analytics pipeline generally follows a few key steps. First, for ingestio...
+/tmp/ipython-input-43586821.py:66: PydanticDeprecatedSince20: The `dict` method is deprecated; use `model_dump` instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.11/migration/
+  return validated.dict()
+  ✅ Evaluation completed:
+     Overall Score: 94.8
+     Relevance: 95.0
+     Accuracy: 100.0
+     Completeness: 85.0
+
+  Candidate 2/6:
+  Type: alternate_correct
+  Answer preview: Sure, a great way to build this, especially if you're in a cloud-native environment, is to use a serverless or managed-s...
+/tmp/ipython-input-43586821.py:66: PydanticDeprecatedSince20: The `dict` method is deprecated; use `model_dump` instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.11/migration/
+  return validated.dict()
+  ✅ Evaluation completed:
+     Overall Score: 90.8
+     Relevance: 90.0
+     Accuracy: 95.0
+     Completeness: 85.0
+
+  Candidate 3/6:
+  Type: partial_correct
+  Answer preview: Okay, so for a real-time pipeline, you'd start by setting up a Spark Streaming job. This job would connect directly to y...
+/tmp/ipython-input-43586821.py:66: PydanticDeprecatedSince20: The `dict` method is deprecated; use `model_dump` instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.11/migration/
+  return validated.dict()
+  ✅ Evaluation completed:
+     Overall Score: 53.0
+     Relevance: 60.0
+     Accuracy: 60.0
+     Completeness: 25.0
+
+  Candidate 4/6:
+  Type: misconception
+  Answer preview: Actually, you don't really need all that complex streaming-specific technology like Flink or Kafka. The thing is, 'real-...
+/tmp/ipython-input-43586821.py:66: PydanticDeprecatedSince20: The `dict` method is deprecated; use `model_dump` instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.11/migration/
+  return validated.dict()
+  ✅ Evaluation completed:
+     Overall Score: 23.5
+     Relevance: 20.0
+     Accuracy: 30.0
+     Completeness: 15.0
+
+  Candidate 5/6:
+  Type: off_topic
+  Answer preview: When you're building a system for real-time analytics, the most important part is the predictive model that generates th...
+/tmp/ipython-input-43586821.py:66: PydanticDeprecatedSince20: The `dict` method is deprecated; use `model_dump` instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.11/migration/
+  return validated.dict()
+  ✅ Evaluation completed:
+     Overall Score: 17.2
+     Relevance: 5.0
+     Accuracy: 40.0
+     Completeness: 5.0
+
+  Candidate 6/6:
+  Type: poor_quality
+  Answer preview: So for the pipeline you get the data, from the source. You have to process it. You use a tool for that, maybe spark for ...
+/tmp/ipython-input-43586821.py:66: PydanticDeprecatedSince20: The `dict` method is deprecated; use `model_dump` instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.11/migration/
+  return validated.dict()
+  ✅ Evaluation completed:
+     Overall Score: 47.5
+     Relevance: 50.0
+     Accuracy: 60.0
+     Completeness: 20.0
+
+  Question 9 Summary:
+    Answers evaluated: 6
+    Average score: 54.5
+    Best score: 94.8
+    Worst score: 17.2
+
+============================================================
+Processing Question 10:
+Domain: General Knowledge, Difficulty: beginner
+Question: How do you stay updated with the latest technology trends and incorporate them into your work?...
+Reference answers available: 4
+Candidate answers to evaluate: 6
+
+  Candidate 1/6:
+  Type: perfect_match
+  Answer preview: Well, for me, staying updated is really about a multi-channel approach. I regularly read reputable tech news sites, subs...
+/tmp/ipython-input-43586821.py:66: PydanticDeprecatedSince20: The `dict` method is deprecated; use `model_dump` instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.11/migration/
+  return validated.dict()
+  ✅ Evaluation completed:
+     Overall Score: 97.0
+     Relevance: 100.0
+     Accuracy: 100.0
+     Completeness: 85.0
+
+  Candidate 2/6:
+  Type: alternate_correct
+  Answer preview: Honestly, my main strategy is learning by doing and through my community. I'm pretty active on platforms like GitHub and...
+/tmp/ipython-input-43586821.py:66: PydanticDeprecatedSince20: The `dict` method is deprecated; use `model_dump` instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.11/migration/
+  return validated.dict()
+  ✅ Evaluation completed:
+     Overall Score: 91.5
+     Relevance: 90.0
+     Accuracy: 100.0
+     Completeness: 80.0
+
+  Candidate 3/6:
+  Type: partial_correct
+  Answer preview: Oh, I'm always reading to stay on top of things. I follow a bunch of tech blogs on my RSS feed and listen to a few popul...
+/tmp/ipython-input-43586821.py:66: PydanticDeprecatedSince20: The `dict` method is deprecated; use `model_dump` instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.11/migration/
+  return validated.dict()
+  ✅ Evaluation completed:
+     Overall Score: 77.5
+     Relevance: 80.0
+     Accuracy: 90.0
+     Completeness: 50.0
+
+  Candidate 4/6:
+  Type: misconception
+  Answer preview: The thing is, you have to be aggressive and adopt new technologies the moment they come out. If you wait, you'll get lef...
+/tmp/ipython-input-43586821.py:66: PydanticDeprecatedSince20: The `dict` method is deprecated; use `model_dump` instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.11/migration/
+  return validated.dict()
+  ✅ Evaluation completed:
+     Overall Score: 63.0
+     Relevance: 60.0
+     Accuracy: 80.0
+     Completeness: 40.0
+
+  Candidate 5/6:
+  Type: off_topic
+  Answer preview: Well, what's really crucial in my work is maintaining clear communication and efficient workflows. I'm a big proponent o...
+/tmp/ipython-input-43586821.py:66: PydanticDeprecatedSince20: The `dict` method is deprecated; use `model_dump` instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.11/migration/
+  return validated.dict()
+  ✅ Evaluation completed:
+     Overall Score: 35.8
+     Relevance: 5.0
+     Accuracy: 90.0
+     Completeness: 10.0
+
+  Candidate 6/6:
+  Type: poor_quality
+  Answer preview: i try to read on the internet about new tech. things change fast so you have to. When I see a cool thing I tell my boss ...
+  ✅ Evaluation completed:
+     Overall Score: 55.5
+     Relevance: 50.0
+     Accuracy: 80.0
+     Completeness: 25.0
+
+  Question 10 Summary:
+    Answers evaluated: 6
+    Average score: 70.0
+    Best score: 97.0
+    Worst score: 35.8
+
+============================================================
+COMPREHENSIVE TEST EVALUATION SUMMARY
+============================================================
+Questions processed: 10
+Total answers evaluated: 60
+
+Overall Performance:
+  Average Overall Score: 65.17
+  Average Relevance: 63.50
+  Average Factual Accuracy: 79.17
+  Average Completeness: 44.33
+  Score Range: 7.2 - 100.0
+
+Performance by Domain:
+  Data Science: 55.96 (n=12)
+  Software Engineering: 68.53 (n=18)
+  Machine Learning: 65.61 (n=12)
+  Human Resources: 66.48 (n=12)
+  General Knowledge: 70.04 (n=6)
+
+Performance by Difficulty:
+  intermediate: 66.87 (n=42)
+  advanced: 56.81 (n=12)
+  beginner: 70.04 (n=6)
+
+Performance by Answer Type:
+  perfect_match: 94.38 (n=10)
+  alternate_correct: 90.45 (n=10)
+  partial_correct: 72.05 (n=10)
+  poor_quality: 57.08 (n=10)
+  off_topic: 42.66 (n=10)
+  misconception: 34.42 (n=10)
+
+Top 5 Performers:
+  1. Q5-C1 (Human Resources): 100.0 - perfect_match
+  2. Q2-C2 (Software Engineering): 98.0 - alternate_correct
+  3. Q3-C1 (Software Engineering): 97.0 - perfect_match
+  4. Q10-C1 (General Knowledge): 97.0 - perfect_match
+  5. Q4-C2 (Machine Learning): 96.0 - alternate_correct
+
+Bottom 5 Performers:
+  1. Q9-C4 (Data Science): 23.5 - misconception
+  2. Q2-C4 (Software Engineering): 17.8 - misconception
+  3. Q9-C5 (Data Science): 17.2 - off_topic
+  4. Q8-C4 (Machine Learning): 11.8 - misconception
+  5. Q6-C4 (Software Engineering): 7.2 - misconception
+
+✅ Comprehensive automated evaluation system is working!
+💡 This demonstrates the full evaluation capability
+🚀 Ready to run on the complete dataset using evaluation_runner.py
+/tmp/ipython-input-43586821.py:66: PydanticDeprecatedSince20: The `dict` method is deprecated; use `model_dump` instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.11/migration/
+  return validated.dict()
